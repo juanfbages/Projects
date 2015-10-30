@@ -26,7 +26,8 @@ Some of these projects I have worked on my own, and others I have paired up with
 
 ## Contact
 
-If you have any questions, suggestions, or requests, you can contact me via e-mail at ```juan "dot" bages "at" columbia "dot" edu```
+If you have any questions, suggestions, or requests, you can contact me via e-mail at:
+```juan "dot" bages "at" columbia "dot" edu```
 
 ## Credits
 
