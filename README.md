@@ -32,5 +32,5 @@ If you have any questions, suggestions, or requests, you can contact me via e-ma
 
 ## Credits
 
-I and my collaborators are open to sharing our findings. If you find any of our work interesting and want to share/use it, just make sure to give us a shout out. Individual collaborators are listed in the READMEs of each project. 
+I and my collaborators are open to sharing our findings. If you find any of our work interesting and want to share/use it, just make sure to give us a shout-out. Individual collaborators are listed in the READMEs of each project. 
 
